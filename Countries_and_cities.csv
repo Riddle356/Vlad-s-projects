@@ -1,0 +1,280 @@
+description_ru;description_en;identifier_id;delivery_cost;identifier_name
+Доставка цветов по России;Flower delivery in Russia;2;38;country_id
+Доставка цветов по Литве;Flower delivery in Lithuania;3;55;country_id
+Доставка цветов по Латвии;Flower delivery in Latvia;4;55;country_id
+Доставка цветов по Казахстану;Flower delivery in Kazakhstan;5;55;country_id
+Доставка цветов по Эстонии;Flower delivery in Estonia;6;55;country_id
+Доставка цветов по Азербайджану;Flower delivery in Azerbaijan;7;80;country_id
+Доставка цветов по Армении;Flower delivery in Armenia;8;55;country_id
+Доставка цветов по Туркменистану;Flower delivery in Turkmenistan;9;90;country_id
+Доставка цветов по Таджикистану;Flower delivery in Tajikistan;10;100;country_id
+Доставка цветов по Грузии;Flower delivery in Georgia;11;55;country_id
+Доставка цветов по Киргизии;Flower delivery in Kyrgyzstan;12;90;country_id
+Доставка цветов по Молдавии;Flower delivery in Moldova;13;55;country_id
+Доставка цветов по Узбекистану;Flower delivery in Uzbekistan;14;55;country_id
+Доставка цветов по Австралии;Flower delivery in Australia;15;55;country_id
+Доставка цветов по Австрии;Flower delivery in Austria;16;55;country_id
+Доставка цветов по Албании;Flower delivery in Albania;17;55;country_id
+Доставка цветов по Андорре;Flower delivery in Andorra;18;85;country_id
+Доставка цветов по Антигуа;Flower delivery in Antigua;19;95;country_id
+Доставка цветов по Багамским островам;Flower delivery in the Bahamas;21;90;country_id
+Доставка цветов по Барбадосу;Flower delivery in Barbados;22;96;country_id
+Доставка цветов по Бахрейну;Flower delivery in Bahrain;23;90;country_id
+Доставка цветов по Белизу;Flower delivery in Belize;24;85;country_id
+Доставка цветов по Бельгии;Flower delivery in Belgium;25;55;country_id
+Доставка цветов по Ангилье;Flower delivery in Anguilla;26;100;country_id
+Доставка цветов по Арубе;Flower delivery in Aruba;27;95;country_id
+Доставка цветов по Балеарским островам;Flower delivery in the Balearic Islands;28;94;country_id
+Доставка цветов по Бонайре;Flower delivery in Bonaire;29;100;country_id
+Доставка цветов по Бермудским островам;Flower delivery in Bermuda;30;99;country_id
+Доставка цветов по Боливии;Flower delivery in Bolivia;31;55;country_id
+Доставка цветов по Боснии;Flower delivery in Bosnia;32;60;country_id
+Доставка цветов по Болгарии;Flower delivery in Bulgaria;33;150;country_id
+Доставка цветов по Бразилии;Flower delivery in Brazil;34;70;country_id
+Доставка цветов по Вануату;Flower delivery in Vanuatu;35;100;country_id
+Доставка цветов по Ватикану;Flower delivery to Vatican;36;55;country_id
+Доставка цветов по Венесуэле;Flower delivery to Venezuela;37;59;country_id
+Доставка цветов по Вьетнаму;Flower delivery to Vietnam;38;55;country_id
+Доставка цветов по Габону;Flower delivery to Gabon;39;100;country_id
+Доставка цветов по Гваделупе;Flower delivery to Guadeloupe;40;100;country_id
+Доставка цветов по Гватемале;Flower delivery to Guatemala;41;70;country_id
+Доставка цветов по Гуаму;Flower delivery to Guam;42;130;country_id
+Доставка цветов по Гренаде;Flower delivery to Grenada;43;240;country_id
+Доставка цветов по Германии;Flower delivery to Germany;44;70;country_id
+Доставка цветов по Греции;Flower delivery to Greece;45;55;country_id
+Доставка цветов по Гайане;Flower delivery to Guyana;46;115;country_id
+Доставка цветов по Гибралтару;Flower delivery to Gibraltar;47;100;country_id
+Доставка цветов по Дании;Flower delivery to Denmark;48;55;country_id
+Доставка цветов по Джибути;Flower delivery to Djibouti;49;100;country_id
+Доставка цветов по Доминиканской Республике;Flower delivery to Dominican Republic;50;65;country_id
+Доставка цветов по Египту;Flower delivery to Egypt;51;55;country_id
+Доставка цветов по Зимбабве;Flower delivery to Zimbabwe;52;55;country_id
+Доставка цветов по Израилю;Flower delivery to Israel;53;55;country_id
+Доставка цветов по Индии;Flower delivery to India;54;55;country_id
+Доставка цветов по Индонезии;Flower delivery to Indonesia;55;80;country_id
+Доставка цветов по Ирану;Flower delivery to Iran;56;55;country_id
+Доставка цветов по Ирландии;Flower delivery to Ireland;57;55;country_id
+Доставка цветов по Италии;Flower delivery to Italy;58;65;country_id
+Доставка цветов по Испании;Flower delivery to Spain;59;67;country_id
+Доставка цветов по Корее;Flower delivery to Korea;60;170;country_id
+Доставка цветов по Кении;Flower delivery to Kenya;61;97;country_id
+Доставка цветов по Кувейту;Flower delivery to Kuwait;62;70;country_id
+Доставка цветов по Китаю;Flower delivery to China;63;55;country_id
+Доставка цветов по Лесото;Flower delivery to Lesotho;64;55;country_id
+Доставка цветов по Ливану;Flower delivery to Lebanon;65;63;country_id
+Доставка цветов по Лихтенштейну;Flower delivery to Liechtenstein;66;55;country_id
+Доставка цветов по Люксембургу;Flower delivery to Luxembourg;67;55;country_id
+Доставка цветов по Макао;Flower delivery to Macau;68;100;country_id
+Доставка цветов по Мадейре;Flower delivery to Madeira;69;100;country_id
+Доставка цветов по Македонии;Flower delivery to Macedonia;70;55;country_id
+Доставка цветов по Малайзии;Flower delivery to Malaysia;71;55;country_id
+Доставка цветов по Маврикию;Flower delivery to Mauritius;72;95;country_id
+Доставка цветов по Марианским островам;Flower delivery to Mariana Islands;73;100;country_id
+Доставка цветов по Мексике;Flower delivery to Mexico;74;55;country_id
+Доставка цветов по Марокко;Flower delivery to Morocco;75;170;country_id
+Доставка цветов по Монтсеррату;Flower delivery to Montserrat;76;100;country_id
+Доставка цветов по Монако;Flower delivery to Monaco;77;55;country_id
+Доставка цветов по Мальте;Flower delivery to Malta;78;55;country_id
+Доставка цветов по Оману;Flower delivery to Oman;79;180;country_id
+Доставка цветов по Пакистану;Flower delivery to Pakistan;80;55;country_id
+Доставка цветов по Панаме;Flower delivery to Panama;81;55;country_id
+Доставка цветов по Папуа—Новой Гвинее;Flower delivery to Papua New Guinea;82;100;country_id
+Доставка цветов по Парагваю;Flower delivery to Paraguay;83;58;country_id
+Доставка цветов по Перу;Flower delivery to Peru;84;60;country_id
+Доставка цветов по Польше;Flower delivery to Poland;85;55;country_id
+Доставка цветов по Португалии;Flower delivery to Portugal;86;55;country_id
+Доставка цветов по Пуэрто-Рико;Flower delivery to Puerto Rico;87;88;country_id
+Доставка цветов по Румынии;Flower delivery to Romania;88;55;country_id
+Доставка цветов по Сальвадору;Flower delivery to El Salvador;89;55;country_id
+Доставка цветов по Самоа;Flower delivery to Samoa;90;55;country_id
+Доставка цветов по Сан-Марино;Flower delivery to San Marino;91;85;country_id
+Доставка цветов по Свазиленду;Flower delivery to Swaziland;92;100;country_id
+Доставка цветов по Сенегалу;Flower delivery to Senegal;93;100;country_id
+Доставка цветов по Сен-Пьеру и Микелону;Flower delivery to Saint Pierre and Miquelon;94;100;country_id
+Доставка цветов по Сент-Винсенту и Гренадинам;Flower delivery to Saint Vincent and the Grenadines;95;100;country_id
+Доставка цветов по Сент-Китсу и Невису;Flower delivery to Saint Kitts and Nevis;96;126;country_id
+Доставка цветов по Сент-Люсии;Flower delivery to Saint Lucia;97;100;country_id
+Доставка цветов по Сербии;Flower delivery to Serbia;98;55;country_id
+Доставка цветов по Сингапуру;Flower delivery to Singapore;99;57;country_id
+Доставка цветов по Сирии;Flower delivery to Syria;100;100;country_id
+Доставка цветов по Словакии;Flower delivery to Slovakia;101;55;country_id
+Доставка цветов по Словении;Flower delivery to Slovenia;102;55;country_id
+Доставка цветов по Суринаму;Flower delivery to Suriname;103;99;country_id
+Доставка цветов по Таиланду;Flower delivery to Thailand;104;55;country_id
+Доставка цветов по Тайваню;Flower delivery to Taiwan;105;55;country_id
+Доставка цветов по Тунису;Flower delivery to Tunisia;106;83;country_id
+Доставка цветов по Турции;Flower delivery to Turkey;107;55;country_id
+Доставка цветов по Тринидаду и Тобаго;Flower delivery to Trinidad and Tobago;108;70;country_id
+Доставка цветов по Арабским Эмиратам;Flower delivery to the United Arab Emirates;109;55;country_id
+Доставка цветов по США;Flower delivery to the USA;110;55;country_id
+Доставка цветов по Англии;Flower delivery to England;111;55;country_id
+Доставка цветов по Уругваю;Flower delivery to Uruguay;112;55;country_id
+Доставка цветов по Фарерским островам;Flower delivery to the Faroe Islands;113;135;country_id
+Доставка цветов по Фиджи;Flower delivery to Fiji;114;500;country_id
+Доставка цветов по Филиппинам;Flower delivery to the Philippines;115;55;country_id
+Доставка цветов по Финляндии;Flower delivery to Finland;116;55;country_id
+Доставка цветов по Франции;Flower delivery to France;117;55;country_id
+Доставка цветов по Французской Гвиане;Flower delivery to French Guiana;118;100;country_id
+Доставка цветов по Французской Полинезии;Flower delivery to French Polynesia;119;100;country_id
+Доставка цветов по Канаде;Flower delivery to Canada;120;145;country_id
+Доставка цветов по Хорватии;Flower delivery to Croatia;121;55;country_id
+Доставка цветов по Черногории;Flower delivery to Montenegro;122;55;country_id
+Доставка цветов по Чехии;Flower delivery to the Czech Republic;123;55;country_id
+Доставка цветов по Чили;Flower delivery to Chile;124;77;country_id
+Доставка цветов по Швейцарии;Flower delivery in Switzerland;125;55;country_id
+Доставка цветов по Швеции;Flower delivery in Sweden;126;55;country_id
+Доставка цветов по Шри-Ланке;Flower delivery in Sri Lanka;127;100;country_id
+Доставка цветов по Шотландии;Flower delivery in Scotland;128;55;country_id
+Доставка цветов по Каймановым островам;Flower delivery in Cayman Islands;129;100;country_id
+Доставка цветов по Эквадору;Flower delivery in Ecuador;130;55;country_id
+Доставка цветов по ЮАР;Flower delivery in South Africa;131;99;country_id
+Доставка цветов по Ямайке;Flower delivery in Jamaica;132;100;country_id
+Доставка цветов по Японии;Flower delivery in Japan;133;55;country_id
+Доставка цветов по Иордании;Flower delivery in Jordan;134;55;country_id
+Доставка цветов по Колумбии;Flower delivery in Colombia;135;90;country_id
+Доставка цветов по Островам Кука;Flower delivery in Cook Islands;136;100;country_id
+Доставка цветов по Коста-Рике;Flower delivery in Costa Rica;137;98;country_id
+Доставка цветов по Кюрасао;Flower delivery in Curacao;138;100;country_id
+Доставка цветов по Кипру;Flower delivery in Cyprus;139;70;country_id
+Доставка цветов по Кубе;Flower delivery in Cuba;140;120;country_id
+Доставка цветов по Канарским островам;Flower delivery in Canary Islands;141;55;country_id
+Доставка цветов по Азорским Островам;Flower delivery in Azores;142;135;country_id
+Доставка цветов по Брунею;Flower delivery in Brunei;143;74;country_id
+Доставка цветов по Голландии;Flower delivery in Holland;144;55;country_id
+Доставка цветов по Гонконгу;Flower delivery in Hong Kong;145;55;country_id
+Доставка цветов по Венгрии;Flower delivery in Hungary;146;55;country_id
+Доставка цветов по Гондурасу;Flower delivery in Honduras;147;60;country_id
+Доставка цветов по Исландии;Flower delivery in Iceland;148;270;country_id
+Доставка цветов по Мозамбику;Flower delivery in Mozambique;149;55;country_id
+Доставка цветов по Никарагуа;Flower delivery in Nicaragua;150;45;country_id
+Доставка цветов по Новой Зеландии;Flower delivery in New Zealand;151;45;country_id
+Доставка цветов по Норвегии;Flower delivery in Norway;152;90;country_id
+Доставка цветов по Катару;Flower delivery in Qatar;153;93;country_id
+Доставка цветов по Уэльсу;Flower delivery in Wales;154;85;country_id
+Доставка цветов по Украине;Flower delivery in Ukraine;155;38;country_id
+Доставка цветов по Аргентине;Flower delivery in Argentina;156;75;country_id
+Доставка цветов по Минску;Flower delivery in Minsk;1;7;zone_id
+Доставка цветов по Пригороду Минска;Flower delivery in the suburbs of Minsk;2;12;zone_id
+Доставка цветов по Копылю;Flower delivery in Kopyl;3;18;zone_id
+Доставка цветов по Могилеву;Flower delivery in Mogilev;4;12;zone_id
+Доставка цветов по Белыничам;Flower delivery in Belynichi;5;20;zone_id
+Доставка цветов по Бобруйску;Flower delivery in Bobruisk;6;12;zone_id
+Доставка цветов по Быхову;Flower delivery in Bykhov;7;20;zone_id
+Доставка цветов по Горкам;Flower delivery in Gorki;8;30;zone_id
+Доставка цветов по Глуску;Flower delivery in Glusk;9;25;zone_id
+Доставка цветов по Дрибину;Flower delivery in Dribin;10;32;zone_id
+Доставка цветов по Кировску;Flower delivery in Kirovsk;11;25;zone_id
+Доставка цветов по Климовичам;Flower delivery in Klimovichi;12;25;zone_id
+Доставка цветов по Кличеву;Flower delivery in Klichev;13;25;zone_id
+Доставка цветов по Костюковичам;Flower delivery in Kostyukovichi;14;25;zone_id
+Доставка цветов по Краснополью;Flower delivery in Krasnopolye;15;25;zone_id
+Доставка цветов по Кричеву;Flower delivery in Krichev;16;25;zone_id
+Доставка цветов по Круглому;Flower delivery in Krugloe;17;35;zone_id
+Доставка цветов по Мстиславлю;Flower delivery in Mstislavl;18;25;zone_id
+Доставка цветов по Осиповичам;Flower delivery in Osipovichi;19;20;zone_id
+Доставка цветов по Славгороду;Flower delivery in Slavgorod;20;25;zone_id
+Доставка цветов по Хотимску;Flower delivery in Khotsimsk;21;25;zone_id
+Доставка цветов по Чаусам;Flower delivery in Chausy;22;25;zone_id
+Доставка цветов по Черикову;Flower delivery in Cherikov;23;25;zone_id
+Доставка цветов по Шклову;Flower delivery in Shklov;24;25;zone_id
+Доставка цветов по Гродно;Flower delivery in Grodno;25;12;zone_id
+Доставка цветов по Большой Берестовице;Flower delivery in Bolshaya Berestovitsa;26;25;zone_id
+Доставка цветов по Волковыску;Flower delivery in Volkovysk;27;20;zone_id
+Доставка цветов по Вороново;Flower delivery in Voronovo;28;27;zone_id
+Доставка цветов по Дятлово;Delivery flowers in Dyatlovo;29;25;zone_id
+Доставка цветов по Зельве;Flower delivery in Zelva;30;25;zone_id
+Доставка цветов по Ивью;Flower delivery in Ivyu;31;25;zone_id
+Доставка цветов по Кореличам;Flower delivery in Korelichi;32;25;zone_id
+Доставка цветов по Лиде;Flower delivery in Lida;33;12;zone_id
+Доставка цветов по Мостам;Flower delivery in Mosty;34;30;zone_id
+Доставка цветов по Новогрудку;Flower delivery in Novogrudok;35;20;zone_id
+Доставка цветов по Ошмянам;Flower delivery in Oshmyany;36;20;zone_id
+Доставка цветов по Островцу;Flower delivery in Ostrovets;37;25;zone_id
+Доставка цветов по Свислочи;Flower delivery in Svisloch;38;25;zone_id
+Доставка цветов по Слониму;Flower delivery in Slonim;39;20;zone_id
+Доставка цветов по Сморгони;Flower delivery in Smorgon;40;20;zone_id
+Доставка цветов по Щучину;Flower delivery in Shchuchin;41;25;zone_id
+Доставка цветов по Витебску;Flower delivery in Vitebsk;42;14;zone_id
+Доставка цветов по Браславу;Flower delivery in Braslav;43;20;zone_id
+Доставка цветов по Бешенковичам;Flower delivery in Beshenkovichi;44;28;zone_id
+Доставка цветов по Верхнедвинску;Flower delivery in Verkhnedvinsk;45;25;zone_id
+Доставка цветов по Глубокому;Flower delivery in Glubokoye;46;30;zone_id
+Доставка цветов по Городку;Flower delivery in Gorodok;47;27;zone_id
+Доставка цветов по Докшицам;Flower delivery in Dokshitsy;48;27;zone_id
+Доставка цветов по Дубровно;Flower delivery in Dubrovno;49;25;zone_id
+Доставка цветов по Лепелю;Flower delivery in Lepel;50;25;zone_id
+Доставка цветов по Лиозно;Flower delivery in Liozno;51;30;zone_id
+Доставка цветов по Миорам;Flower delivery in Miory;52;25;zone_id
+Доставка цветов по Орше;Flower delivery in Orsha;53;18;zone_id
+Доставка цветов по Полоцку;Flower delivery in Polotsk;54;12;zone_id
+Доставка цветов по Поставам;Flower delivery in Postavy;55;25;zone_id
+Доставка цветов по Россонам;Flower delivery in Rossony;56;25;zone_id
+Доставка цветов по Сенно;Flower delivery in Senno;57;25;zone_id
+Доставка цветов по Толочину;Flower delivery in Tolochin;58;20;zone_id
+Доставка цветов по Ушачам;Flower delivery in Ushachi;59;25;zone_id
+Доставка цветов по Чашникам;Flower delivery in Chashniki;60;25;zone_id
+Доставка цветов по Шарковщине;Flower delivery in Sharkovshchina;61;25;zone_id
+Доставка цветов по Шумилино;Flower delivery in Shumilino;62;25;zone_id
+Доставка цветов по Гомелю;Flower delivery in Gomel;63;12;zone_id
+Доставка цветов по Брагину;Flower delivery in Bragin;64;25;zone_id
+Доставка цветов по Буде-Кошелево;Flower delivery in Budy-Koshelevo;65;28;zone_id
+Доставка цветов по Ветке;Flower delivery in Vetka;66;25;zone_id
+Доставка цветов по Добрушу;Flower delivery in Dobrush;67;27;zone_id
+Доставка цветов по Ельску;Flower delivery in Yelsk;68;25;zone_id
+Доставка цветов по Житковичам;Flower delivery in Zhitkovichi;69;25;zone_id
+Доставка цветов по Жлобину;Flower delivery in Zhlobin;70;20;zone_id
+Доставка цветов по Калинковичам;Flower delivery in Kalinkovichi;71;29;zone_id
+Доставка цветов по Корме;Flower delivery in Korma;72;30;zone_id
+Доставка цветов по Лельчицам;Flower delivery in Lelchitsy;73;25;zone_id
+Доставка цветов по Лоеву;Flower delivery in Loyev;74;30;zone_id
+Доставка цветов по Мозырю;Flower delivery in Mozyr;75;12;zone_id
+Доставка цветов по Наровле;Flower delivery in Narovlya;76;28;zone_id
+Доставка цветов по Октябрьскому;Flower delivery in Oktyabrsky;77;28;zone_id
+Доставка цветов по Петрикову;Flower delivery in Petrikov;78;28;zone_id
+Доставка цветов по Речице;Flower delivery in Rechitsa;79;20;zone_id
+Доставка цветов по Рогачеву;Flower delivery in Rogachev;80;20;zone_id
+Доставка цветов по Светлогорску;Flower delivery in Svetlogorsk;81;20;zone_id
+Доставка цветов по Хойникам;Flower delivery in Khoyniki;82;25;zone_id
+Доставка цветов по Чечерску;Flower delivery in Chechersk;83;25;zone_id
+Доставка цветов по Бресту;Flower delivery in Brest;84;14;zone_id
+Доставка цветов по Барановичам;Flower delivery in Baranovichi;85;12;zone_id
+Доставка цветов по Березе;Flower delivery in Bereza;86;23;zone_id
+Доставка цветов по Ганцевичам;Flower delivery in Gantsevichi;87;30;zone_id
+Доставка цветов по Дрогичину;Flower delivery in Drogichin;88;30;zone_id
+Доставка цветов по Жабинке;Flower delivery in Zhabinka;89;25;zone_id
+Доставка цветов по Иваново;Flower delivery in Ivanovo;90;25;zone_id
+Доставка цветов по Ивацевичам;Flower delivery in Ivatsevichi;91;25;zone_id
+Доставка цветов по Каменцу;Flower delivery in Kamenets;92;25;zone_id
+Доставка цветов по Кобрину;Flower delivery in Kobrin;93;20;zone_id
+Доставка цветов по Лунинцу;Flower delivery in Luninets;94;25;zone_id
+Доставка цветов по Ляховичам;Flower delivery in Lyakhovichi;95;30;zone_id
+Доставка цветов по Малорите;Flower delivery in Malorita;96;25;zone_id
+Доставка цветов по Пинску;Flower delivery in Pinsk;97;12;zone_id
+Доставка цветов по Пружанам;Flower delivery in Pruzhany;98;25;zone_id
+Доставка цветов по Столину;Flower delivery in Stolin;99;20;zone_id
+Доставка цветов по Борисову;Flower delivery in Borisov;100;15;zone_id
+Доставка цветов по Березино;Flower delivery in Berezino;101;18;zone_id
+Доставка цветов по Червеню;Flower delivery in Cherven;102;18;zone_id
+Доставка цветов по Дзержинску;Flower delivery in Dzerzhinsk;103;12;zone_id
+Доставка цветов по Клецку;Flower delivery in Kletsk;104;18;zone_id
+Доставка цветов по Крупкам;Flower delivery in Krupki;105;18;zone_id
+Доставка цветов по Логойску;Flower delivery in Logoisk;106;12;zone_id
+Доставка цветов по Любани;Flower delivery in Lyuban;107;25;zone_id
+Доставка цветов по Молодечно;Flower delivery in Molodechno;108;12;zone_id
+Доставка цветов по Марьиной Горке;Flower delivery in Maryina Gorka;109;12;zone_id
+Доставка цветов по Мяделю;Flower delivery in Myadel;110;20;zone_id
+Доставка цветов по Несвижу;Flower delivery in Nesvizh;111;12;zone_id
+Доставка цветов по Солигорску;Flower delivery in Soligorsk;112;12;zone_id
+Доставка цветов по Слуцку;Flower delivery in Slutsk;113;15;zone_id
+Доставка цветов по Смолевичам;Flower delivery in Smolevichi;114;15;zone_id
+Доставка цветов по Старым Дорогам;Flower delivery in Starye Roads;115;18;zone_id
+Доставка цветов по Столбцам;Flower delivery in Stolbtsy;116;12;zone_id
+Доставка цветов по Узде;Flower delivery in Uzda;117;18;zone_id
+Доставка цветов по Воложину;Flower delivery in Volozhin;118;18;zone_id
+Доставка цветов по Вилейке;Flower delivery in Vileika;119;15;zone_id
+Доставка цветов по Жодино;Flower delivery in Zhodino;120;12;zone_id
+Доставка цветов по Новополоцку;Flower delivery in Novopolotsk;121;12;zone_id
+Доставка цветов по Квасовке Гродненской;Flower delivery in Kvasovka Grodnenskaya;122;28;zone_id
+Доставка цветов по Витебску (пригороду);Flower delivery in Vitebsk (suburb);123;15;zone_id
+Доставка цветов по Озерному сан. Гродненской;Flower delivery in Ozerny san. Grodnenskaya;124;30;zone_id
+Доставка цветов по Боровлянам;Flower delivery in Borovlyany;125;7;zone_id
